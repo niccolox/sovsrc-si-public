@@ -1,0 +1,33 @@
+title: Sovereign Source AI
+description: A research initiative exploring AI that respects intellectual property and ideas through permission, attribution and contributor rewards.
+url: https://sovsrc.si
+baseurl: ""
+theme: jekyll-theme-primer
+repository: niccolox/sovsrc-si-public
+source_repository_url: https://github.com/niccolox/sovsrc-si-public
+source_branch: main
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+exclude:
+  - private-docs
+  - output
+  - docs/assets
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+titles_from_headings:
+  strip_title: false

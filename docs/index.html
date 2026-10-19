@@ -1,0 +1,67 @@
+---
+layout: default
+title: Public library
+description: Public principles and articles on AI, attribution, contributor rewards and shared prosperity.
+permalink: /docs/
+is_library: true
+---
+{% assign documents = site.pages | sort: 'title' %}
+{% assign document_count = 0 %}
+{% for document in documents %}
+  {% assign root = document.path | split: '/' | first %}
+  {% assign extension = document.name | split: '.' | last | downcase %}
+  {% if root == 'docs' and extension == 'md' %}
+    {% assign document_count = document_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+<section class="library-hero" aria-labelledby="library-title">
+  <div class="eyebrow"><span class="status-dot" aria-hidden="true"></span> The public library</div>
+  <h1 id="library-title">A foundation for<br><em>shared intelligence.</em></h1>
+  <p>Explore ideas about AI that respects intellectual property, recognizes human contributions and shares the benefits of progress.</p>
+  <div class="hero-links">
+    <a class="primary-link" href="{{ '/docs/PUBLIC_OVERVIEW.html' | relative_url }}">Explore the project <span aria-hidden="true">↗</span></a>
+    <a href="{{ '/docs/SUPERINTELLIGENCE_SHARED_PROSPERITY_ARTICLE.html' | relative_url }}">Read about shared prosperity →</a>
+  </div>
+</section>
+
+<section class="library-catalog" aria-labelledby="catalog-title">
+  <div class="catalog-toolbar">
+    <div>
+      <p class="eyebrow">Explore the collection</p>
+      <h2 id="catalog-title">All documents <span class="document-count">{{ document_count }}</span></h2>
+    </div>
+    <div class="library-search" hidden>
+      <label for="document-search">Find a document</label>
+      <input type="search" id="document-search" placeholder="Search titles or topics…" autocomplete="off" aria-controls="document-list">
+    </div>
+  </div>
+  <p id="search-status" class="search-status" role="status" aria-live="polite" hidden></p>
+  <ol class="document-list" id="document-list">
+    {% for document in documents %}
+      {% assign root = document.path | split: '/' | first %}
+      {% assign extension = document.name | split: '.' | last | downcase %}
+      {% if root == 'docs' and extension == 'md' %}
+        {% assign reading_minutes = document.content | number_of_words | divided_by: 220 | plus: 1 %}
+        <li class="document-item" data-search="{{ document.title | escape }} {{ document.name | replace: '_', ' ' | escape }}">
+          <a href="{{ document.url | relative_url }}">
+            <span class="document-title">{{ document.title | default: document.name | escape }}</span>
+            <span class="reading-time">{{ reading_minutes }} min read</span>
+            <span class="document-arrow" aria-hidden="true">↗</span>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+  <div class="empty-state" id="no-results" hidden>
+    <h3>No documents found</h3>
+    <p>Try attribution, content rewards or shared prosperity.</p>
+    <button type="button" id="clear-search">Clear search</button>
+  </div>
+</section>
+
+<section class="library-note" aria-label="About this library">
+  <h2>Ideas for shared progress</h2>
+  <p>These public articles discuss principles and possibilities for AI. They distinguish proposals from demonstrated results. The project is a research initiative, and its license text remains a draft.</p>
+  <a href="{{ '/licenses/' | relative_url }}">Explore the licensing framework →</a>
+</section>

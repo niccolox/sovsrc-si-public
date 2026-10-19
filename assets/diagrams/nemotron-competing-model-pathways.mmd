@@ -1,0 +1,20 @@
+%%{init: {"theme":"base","htmlLabels":false,"themeVariables":{"fontFamily":"Arial, sans-serif","fontSize":"22px","primaryColor":"#edf3ef","primaryTextColor":"#173d36","primaryBorderColor":"#386d52","lineColor":"#606c66","edgeLabelBackground":"#fbfaf6","background":"#fbfaf6"},"flowchart":{"htmlLabels":false,"curve":"linear","nodeSpacing":40,"rankSpacing":44,"padding":20,"wrappingWidth":320}}}%%
+flowchart TB
+    accTitle: Two routes to a competing model using Nemotron 3 Ultra
+    accDescr: Start with a selected Ultra checkpoint under OpenMDW 1.1. Fine-tune its weights into an adapted model, or generate teacher examples and train a separate student. Before commercial release, review content rights, lineage, service terms and quality. Contributor credit and rewards depend on the applicable agreements.
+    A["Nemotron 3 Ultra<br/>Selected OpenMDW 1.1 checkpoint"]
+    A --> B["Fine-tune weights"]
+    A --> C["Generate teacher examples"]
+    B --> D["Adapted model"]
+    C --> E["Train a separate student"]
+    D --> F["Candidate competing model"]
+    E --> F
+    F --> G["Separate checks<br/>Content rights · lineage<br/>Service terms · quality"]
+    G --> H["Commercial release<br/>under applicable terms"]
+    H -.-> I["Contributor credit and rewards<br/>where agreed"]
+    classDef primary fill:#173d36,color:#ffffff,stroke:#173d36,stroke-width:2px;
+    classDef review fill:#fff3dd,color:#633b13,stroke:#b98545,stroke-width:2px;
+    classDef note fill:#fbfaf6,color:#606c66,stroke:#aeb9af,stroke-dasharray:5 4;
+    class A,H primary;
+    class G review;
+    class I note;
