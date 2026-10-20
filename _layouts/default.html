@@ -9,8 +9,12 @@
     <link rel="canonical" href="{{ page.url | absolute_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
     <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+    {% if page.is_home %}
+    <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+    <script src="{{ '/assets/js/home.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+    {% endif %}
   </head>
-  <body id="top"{% if page.reading_style == 'editorial' %} class="editorial-page"{% endif %}>
+  <body id="top"{% if page.is_home %} class="home-page"{% elsif page.reading_style == 'editorial' %} class="editorial-page"{% endif %}>
     <a class="skip-link" href="#main-content">Skip to content</a>
     <header class="site-header">
       <div class="header-inner">
@@ -26,8 +30,8 @@
       </div>
     </header>
 
-    {% if page.is_library %}
-    <main id="main-content" class="library-main" tabindex="-1">
+    {% if page.is_home or page.is_library %}
+    <main id="main-content" class="{% if page.is_home %}home-main{% else %}library-main{% endif %}" tabindex="-1">
       {{ content }}
     </main>
     {% else %}

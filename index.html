@@ -1,0 +1,99 @@
+---
+layout: default
+title: Sovereign Source — Ideas for shared intelligence
+description: Explore illustrated articles on AI, human knowledge, content rewards and shared prosperity from Sovereign Source.
+is_home: true
+permalink: /
+stories:
+  - title: What Ed Zitron’s AI Criticism Means for Content Rewards
+    url: /docs/ED_ZITRON_CONTENT_REWARDS_ARTICLE.html
+    image: ed-zitron-content-rewards-money-go-round
+    width: 1122
+    height: 1402
+    topic: rewards
+    summary: A trip around the AI money-go-round, and a serious test of who benefits, who pays and whether the numbers work.
+  - title: Why Content Rewards Could Strengthen OpenAI and ChatGPT
+    url: /docs/OPENAI_CHATGPT_CONTENT_REWARDS_ARTICLE.html
+    image: openai-chatgpt-content-rewards-circular
+    width: 1122
+    height: 1402
+    topic: rewards
+    summary: A proposal to connect useful human knowledge, customer value and contributor payments.
+  - title: A Proposal for Grok and xAI to Reward Human Knowledge
+    url: /docs/GROK_XAI_CONTENT_AWARDS_PROPOSAL_ARTICLE.html
+    image: grok-content-awards-circular
+    width: 1254
+    height: 1254
+    topic: rewards
+    summary: Extending the idea of content rewards to the people whose work makes AI useful.
+  - title: Why Content Rewards Could Strengthen Anthropic and Claude
+    url: /docs/ANTHROPIC_CLAUDE_CONTENT_REWARDS_ARTICLE.html
+    image: anthropic-claude-content-rewards-circular
+    width: 1122
+    height: 1402
+    topic: rewards
+    summary: How contributor payments could support better knowledge, trusted sources and lasting relationships.
+  - title: The Super Anthropocene and the Value of Human Contribution
+    url: /docs/SUPER_ANTHROPOCENE_ARTICLE.html
+    image: super-anthropocene
+    width: 1122
+    height: 1402
+    topic: sovereignty
+    summary: A vision of superintelligence that expands human agency and shares the benefits of progress.
+  - title: Building a Competing AI Model with Nemotron 3 Ultra
+    url: /docs/NEMOTRON_COMPETING_MODEL_ARTICLE.html
+    image: nemotron-competing-model-pathways
+    width: 1560
+    height: 1935
+    topic: sovereignty
+    summary: Fine-tuning, distillation and the separate questions of content rights, model lineage and permission.
+---
+<section class="home-intro" aria-labelledby="home-title">
+  <h1 id="home-title">Intelligence should<br>reward its sources.</h1>
+  <div class="home-intro-copy">
+    <p>Sovereign Source explores AI that respects human knowledge through permission, attribution and contributor rewards.</p>
+    <a class="home-text-link" href="{{ '/docs/PUBLIC_OVERVIEW.html' | relative_url }}">Explore the project <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a>
+  </div>
+</section>
+
+<section class="home-collection" aria-labelledby="collection-title">
+  <div class="home-toolbar">
+    <h2 id="collection-title">Ideas, illustrated.</h2>
+    <div class="home-filters" role="group" aria-label="Filter illustrated articles" hidden>
+      <button type="button" data-topic="all" aria-pressed="true">All stories</button>
+      <button type="button" data-topic="rewards" aria-pressed="false">Content rewards</button>
+      <button type="button" data-topic="sovereignty" aria-pressed="false">Sovereign AI</button>
+    </div>
+  </div>
+  <p class="home-results" id="home-results" role="status" aria-live="polite" aria-atomic="true">Six illustrated articles from the public library.</p>
+  <ul class="story-gallery" aria-label="Illustrated articles">
+    {% for story in page.stories %}
+    <li class="story-card" data-topic="{{ story.topic }}">
+      <a class="story-link" href="{{ story.url | relative_url }}" aria-labelledby="story-title-{{ forloop.index }}">
+        <div class="story-art">
+          <img src="{{ '/assets/thumbnails/' | relative_url }}{{ story.image }}-480.webp"
+               srcset="{{ '/assets/thumbnails/' | relative_url }}{{ story.image }}-480.webp 480w, {{ '/assets/thumbnails/' | relative_url }}{{ story.image }}-960.webp 960w"
+               sizes="(max-width: 620px) calc(100vw - 32px), (max-width: 1000px) calc((100vw - 76px) / 2), (max-width: 1376px) calc((100vw - 160px) / 3), 405px"
+               width="{{ story.width }}" height="{{ story.height }}" alt=""
+               {% if forloop.first %}loading="eager" fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async">
+        </div>
+        <div class="story-copy">
+          <h3 id="story-title-{{ forloop.index }}">{{ story.title }}</h3>
+          <p>{{ story.summary }}</p>
+          <span class="story-action" aria-hidden="true">Read article <svg viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></span>
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  <noscript><p class="home-results">All illustrated articles are shown. Browse the complete library for more reading.</p></noscript>
+</section>
+
+<section class="home-library" aria-labelledby="more-title">
+  <div>
+    <h2 id="more-title">There’s more to the story.</h2>
+    <p>Explore the full collection of public articles, project principles and proposals for shared prosperity.</p>
+  </div>
+  <a class="home-library-link" href="{{ '/docs/' | relative_url }}">Browse the full library <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a>
+</section>
+<p class="home-disclosure">Sovereign Source is a research initiative. These articles explore proposals, not an operating contributor-payment service.</p>

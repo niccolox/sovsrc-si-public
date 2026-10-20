@@ -1,0 +1,71 @@
+/* The homepage gallery inherits the site's reading palette and typography. */
+.home-main { width: min(1280px, calc(100% - 6rem)); margin-inline: auto; }
+.home-page ::selection { background: #dce8db; color: var(--green); }
+.home-page { scrollbar-color: var(--accent) var(--paper); }
+.home-intro { display: grid; grid-template-columns: 1.45fr 1fr; align-items: end; gap: 4rem; padding: 3.5rem 0 3.25rem; }
+.home-intro h1 { margin: 0; color: var(--green); font: 400 clamp(2.5rem, 4.4vw, 4rem)/1.08 Georgia, "Times New Roman", serif; letter-spacing: -.035em; text-wrap: balance; }
+.home-intro-copy { max-width: 25rem; padding-bottom: .2rem; }
+.home-intro-copy p { margin: 0 0 1rem; color: var(--muted); font-size: 1.0625rem; line-height: 1.65; }
+.home-text-link { display: inline-flex; align-items: center; gap: .75rem; padding-block: .25rem; font-size: .875rem; text-decoration-thickness: 1px; }
+.home-main svg { width: 1.125rem; height: 1.125rem; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+.home-toolbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; border-top: 1px solid var(--rule); padding-top: 1.25rem; }
+.home-toolbar h2 { margin: 0; font: 400 1.625rem/1.3 Georgia, "Times New Roman", serif; color: var(--green); }
+.home-filters { display: flex; flex-wrap: wrap; gap: .25rem 1.5rem; }
+.home-filters button { min-height: 44px; padding: .5rem 0; background: transparent; color: var(--muted); border: 0; border-bottom: 2px solid transparent; font-size: .875rem; }
+.home-filters button:hover { color: var(--green); border-bottom-color: var(--rule); }
+.home-filters button[aria-pressed="true"] { color: var(--green); border-bottom-color: var(--green); }
+.home-results { margin: .75rem 0 1.75rem; font-size: .8125rem; color: var(--muted); }
+.story-gallery { list-style: none; margin: 0; padding: 0; columns: 3; column-gap: 2rem; }
+.story-card { display: inline-block; width: 100%; margin: 0 0 2.5rem; break-inside: avoid; vertical-align: top; }
+.story-link { display: block; color: var(--ink); text-decoration: none; }
+.story-link:focus-visible { outline-offset: 7px; }
+.story-art { background: white; border: 1px solid var(--rule); }
+.story-art img { display: block; width: 100%; height: auto; }
+.story-copy { padding: 1.125rem 0 0; }
+.story-copy h3 { margin: 0 0 .75rem; color: var(--green); font: 400 1.5rem/1.24 Georgia, "Times New Roman", serif; letter-spacing: -.015em; text-wrap: balance; }
+.story-copy p { margin: 0 0 .875rem; color: var(--muted); font-size: .9375rem; line-height: 1.6; }
+.story-action { display: inline-flex; align-items: center; gap: .6rem; color: var(--green); font-size: .8125rem; }
+.story-action svg { transition: transform 180ms cubic-bezier(.16, 1, .3, 1); }
+.story-link:hover h3 { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .18em; }
+.story-link:hover .story-action svg { transform: translateX(4px); }
+.home-library { display: flex; justify-content: space-between; align-items: center; gap: 3rem; border-block: 1px solid var(--rule); margin-top: 1rem; padding: 2.5rem 0; }
+.home-library h2 { margin: 0 0 .75rem; color: var(--green); font: 400 2rem/1.2 Georgia, "Times New Roman", serif; text-wrap: balance; }
+.home-library p { margin: 0; color: var(--muted); max-width: 37rem; font-size: .9375rem; }
+.home-library-link { display: inline-flex; justify-content: space-between; align-items: center; gap: 1.5rem; flex-shrink: 0; background: var(--green); color: white; padding: .9rem 1.25rem; font-size: .875rem; text-decoration: none; }
+.home-library-link:hover { background: #2c5145; color: white; }
+.home-disclosure { max-width: 72ch; margin: 1.25rem 0 3.5rem; color: var(--muted); font-size: .8125rem; }
+@media (max-width: 1000px) {
+  .home-main { width: calc(100% - 3rem); }
+  .home-intro { grid-template-columns: 1.3fr 1fr; gap: 2rem; padding-block: 3rem; }
+  .home-intro h1 { font-size: clamp(2.25rem, 4.8vw, 3rem); }
+  .home-intro-copy p { font-size: 1rem; }
+  .story-gallery { columns: 2; column-gap: 1.75rem; }
+  .home-library { gap: 2rem; }
+}
+@media (max-width: 620px) {
+  .home-main { width: calc(100% - 2rem); }
+  .home-intro { grid-template-columns: 1fr; gap: 1.25rem; padding-block: 2.25rem; }
+  .home-intro h1 { font-size: clamp(2rem, 8.8vw, 3rem); }
+  .home-intro-copy { max-width: 32rem; }
+  .home-toolbar { align-items: start; gap: .75rem; }
+  .home-toolbar h2 { font-size: 1.5rem; }
+  .home-filters { width: 100%; gap: 1.25rem; }
+  .home-filters button { font-size: .8125rem; }
+  .home-results { margin-block: .75rem 1.5rem; }
+  .story-gallery { columns: 1; }
+  .story-card { margin-bottom: 2.5rem; }
+  .story-copy h3 { font-size: 1.625rem; }
+  .story-copy p { font-size: 1rem; }
+  .home-library { align-items: start; flex-direction: column; gap: 1.5rem; padding-block: 2rem; }
+  .home-library h2 { font-size: 1.75rem; }
+  .home-disclosure { margin-bottom: 2.5rem; }
+}
+@media (prefers-reduced-motion: reduce) { .story-action svg { transition: none; } }
+@media print {
+  .home-main { width: 100%; }
+  .home-filters { display: none; }
+  .home-intro { padding-block: 1rem; }
+  .story-gallery { columns: 2; }
+  .story-card { break-inside: avoid; }
+  .home-library { display: none; }
+}
