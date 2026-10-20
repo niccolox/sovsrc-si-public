@@ -42,9 +42,22 @@
     if (window.matchMedia('(max-width: 1000px)').matches) {
       contents.querySelector('details').open = false;
     }
+    if (document.body.classList.contains('editorial-page')) {
+      const narrow = window.matchMedia('(max-width: 1000px)');
+      const layout = contents.parentElement;
+      const metadata = document.querySelector('.article-meta');
+      const placeContents = () => {
+        if (narrow.matches && metadata) metadata.after(contents);
+        else layout.append(contents);
+        contents.querySelector('details').open = !narrow.matches;
+      };
+      narrow.addEventListener('change', placeContents);
+      placeContents();
+    }
   }
 
   for (const table of document.querySelectorAll('.markdown-body table')) {
+    if (table.closest('.article-table-scroll')) continue;
     table.tabIndex = 0;
     table.setAttribute('aria-label', 'Comparison table; scroll horizontally if needed');
   }
