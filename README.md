@@ -13,6 +13,7 @@ Visit [sovsrc.si](https://sovsrc.si) or browse the [public library](docs/index.h
 ## Public reading
 
 - [Sovereign Source: principles and purpose](docs/PUBLIC_OVERVIEW.md)
+- [A Proposal for Grok and xAI to Reward Human Knowledge](docs/GROK_XAI_CONTENT_AWARDS_PROPOSAL_ARTICLE.md)
 - [The Super Anthropocene and the Value of Human Contribution](docs/SUPER_ANTHROPOCENE_ARTICLE.md)
 - [Building a Competing AI Model with Nemotron 3 Ultra](docs/NEMOTRON_COMPETING_MODEL_ARTICLE.md)
 - [Using Claude and OpenAI to Build AI Software](docs/CLAUDE_OPENAI_SOFTWARE_DEVELOPMENT_TERMS_ARTICLE.md)
