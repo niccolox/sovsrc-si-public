@@ -19,6 +19,7 @@ Visit [sovsrc.si](https://sovsrc.si) or browse the [public library](docs/index.h
 - [A Proposal for Grok and xAI to Reward Human Knowledge](docs/GROK_XAI_CONTENT_AWARDS_PROPOSAL_ARTICLE.md)
 - [The Super Anthropocene and the Value of Human Contribution](docs/SUPER_ANTHROPOCENE_ARTICLE.md)
 - [Building a Competing AI Model with Nemotron 3 Ultra](docs/NEMOTRON_COMPETING_MODEL_ARTICLE.md)
+- [Building a Sovereign Source Model with OpenWALDO and LLM Content Rewards](docs/OPENWALDO_LLM_CONTENT_REWARDS_ARTICLE.md)
 - [Using Claude and OpenAI to Build AI Software](docs/CLAUDE_OPENAI_SOFTWARE_DEVELOPMENT_TERMS_ARTICLE.md)
 - [Google Harness2 and Sovereign AI Development](docs/HARNESS2_SOVEREIGN_AI_ARTICLE.md)
 - [Superintelligence Should Be a Win for Humans and Machines](docs/SUPERINTELLIGENCE_SHARED_PROSPERITY_ARTICLE.md)
