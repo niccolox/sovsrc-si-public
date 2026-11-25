@@ -18,6 +18,7 @@ Visit [sovsrc.si](https://sovsrc.si) or browse the [public library](docs/index.h
 - [What Ed Zitron’s AI Criticism Means for Content Rewards](docs/ED_ZITRON_CONTENT_REWARDS_ARTICLE.md)
 - [A Proposal for Grok and xAI to Reward Human Knowledge](docs/GROK_XAI_CONTENT_AWARDS_PROPOSAL_ARTICLE.md)
 - [The Super Anthropocene and the Value of Human Contribution](docs/SUPER_ANTHROPOCENE_ARTICLE.md)
+- [Macbeth and Content Rewards: The Source Code](docs/MACBETH_CONTENT_REWARDS_SOURCE_CODE_ARTICLE.md)
 - [Nemotron 3 Ultra, OpenWALDO, Sovereign Source SI and CommonLLM Side by Side](docs/NEMOTRON_OPENWALDO_SOVEREIGN_SOURCE_COMMONLLM_COMPARISON_ARTICLE.md)
 - [CommonLLM: Common Crawl as an LLM for Open Source AI and SI](docs/COMMONLLM_COMMON_CRAWL_OPEN_SOURCE_LLM_ARTICLE.md)
 - [Building a Competing AI Model with Nemotron 3 Ultra](docs/NEMOTRON_COMPETING_MODEL_ARTICLE.md)

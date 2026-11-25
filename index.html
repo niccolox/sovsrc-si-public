@@ -5,6 +5,13 @@ description: Explore illustrated articles on AI, human knowledge, content reward
 is_home: true
 permalink: /
 stories:
+  - title: "Macbeth and Content Rewards: The Source Code"
+    url: /docs/MACBETH_CONTENT_REWARDS_SOURCE_CODE_ARTICLE.html
+    image: macbeth-content-rewards-leaderboard
+    width: 1122
+    height: 1402
+    topic: rewards
+    summary: A small public program divides a reward pool between contributors by licence. The article links to each part of its code.
   - title: "Nemotron 3 Ultra, OpenWALDO, Sovereign Source SI and CommonLLM Side by Side"
     url: /docs/NEMOTRON_OPENWALDO_SOVEREIGN_SOURCE_COMMONLLM_COMPARISON_ARTICLE.html
     image: open-ai-projects-side-by-side
@@ -79,7 +86,7 @@ stories:
       <button type="button" data-topic="sovereignty" aria-pressed="false">Sovereign AI</button>
     </div>
   </div>
-  <p class="home-results" id="home-results" role="status" aria-live="polite" aria-atomic="true">Eight illustrated articles from the public library.</p>
+  <p class="home-results" id="home-results" role="status" aria-live="polite" aria-atomic="true">Nine illustrated articles from the public library.</p>
   <ul class="story-gallery" aria-label="Illustrated articles">
     {% for story in page.stories %}
     <li class="story-card" data-topic="{{ story.topic }}">

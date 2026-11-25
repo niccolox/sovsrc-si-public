@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1122 1402" width="1122" height="1402" role="img" aria-labelledby="mb-title mb-desc" font-family="Arial, Helvetica, sans-serif">
+<title id="mb-title">Macbeth and content rewards</title>
+<desc id="mb-desc">A demonstration that divides a reward pool of 100 between six characters of Macbeth. Each of 16 speeches has a sample licence with a factor: 1.0 for the Sovereign Source rewards licence, 0.5 for proprietary text with permission, 0.1 for CC BY 4.0 and 0.0 for the public domain. Result: Macbeth 26.67, Lady Macbeth 26.67, Macduff 18.33, Duncan 16.67, Banquo 10.00 and the son of Macduff 1.67.</desc>
+<rect width="1122" height="1402" fill="#fbfaf6"/>
+<text x="56" y="78" font-size="40" fill="#173d36" font-weight="700" text-anchor="start" >Macbeth and content rewards</text>
+<text x="56" y="116" font-size="22" fill="#606c66" font-weight="400" text-anchor="start" >A reward pool of 100, divided between six characters by licence</text>
+<text x="56" y="186" font-size="25" fill="#173d36" font-weight="700" text-anchor="start" >The rule</text>
+<rect x="56" y="206" width="1010" height="96" rx="10" fill="#173d36"/>
+<text x="561.0" y="250" font-size="25" fill="#ffffff" font-weight="700" text-anchor="middle" >reward = influence × licence factor ÷ total weight × pool</text>
+<text x="561.0" y="282" font-size="16" fill="#cfe0d6" font-weight="400" text-anchor="middle" >Each of the 16 speeches has the same influence in this demonstration</text>
+<text x="56" y="364" font-size="25" fill="#173d36" font-weight="700" text-anchor="start" >Licence factors</text>
+<rect x="56.0" y="384" width="240" height="150" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="176.0" y="440" font-size="40" fill="#173d36" font-weight="700" text-anchor="middle" >1.0</text>
+<text x="176.0" y="470" font-size="16" fill="#173d36" font-weight="400" text-anchor="middle" >Sovereign Source</text>
+<text x="176.0" y="490" font-size="16" fill="#173d36" font-weight="400" text-anchor="middle" >rewards licence</text>
+<text x="176.0" y="518" font-size="14" fill="#606c66" font-weight="400" text-anchor="middle" >4 speeches</text>
+<rect x="312.67" y="384" width="240" height="150" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="432.67" y="440" font-size="40" fill="#173d36" font-weight="700" text-anchor="middle" >0.5</text>
+<text x="432.67" y="470" font-size="16" fill="#173d36" font-weight="400" text-anchor="middle" >Proprietary,</text>
+<text x="432.67" y="490" font-size="16" fill="#173d36" font-weight="400" text-anchor="middle" >owner gave permission</text>
+<text x="432.67" y="518" font-size="14" fill="#606c66" font-weight="400" text-anchor="middle" >3 speeches</text>
+<rect x="569.34" y="384" width="240" height="150" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="689.34" y="440" font-size="40" fill="#173d36" font-weight="700" text-anchor="middle" >0.1</text>
+<text x="689.34" y="470" font-size="16" fill="#173d36" font-weight="400" text-anchor="middle" >CC BY 4.0</text>
+<text x="689.34" y="490" font-size="16" fill="#173d36" font-weight="400" text-anchor="middle" >open licence</text>
+<text x="689.34" y="518" font-size="14" fill="#606c66" font-weight="400" text-anchor="middle" >5 speeches</text>
+<rect x="826.01" y="384" width="240" height="150" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="946.01" y="440" font-size="40" fill="#173d36" font-weight="700" text-anchor="middle" >0.0</text>
+<text x="946.01" y="470" font-size="16" fill="#173d36" font-weight="400" text-anchor="middle" >Public domain</text>
+<text x="946.01" y="490" font-size="16" fill="#173d36" font-weight="400" text-anchor="middle" >no reward</text>
+<text x="946.01" y="518" font-size="14" fill="#606c66" font-weight="400" text-anchor="middle" >4 speeches</text>
+<text x="56" y="600" font-size="25" fill="#173d36" font-weight="700" text-anchor="start" >Result for each character</text>
+<line x1="300.0" y1="628" x2="300.0" y2="1118" stroke="#d5dcd5" stroke-width="1"/>
+<text x="300.0" y="1142" font-size="14" fill="#606c66" font-weight="400" text-anchor="middle" >0</text>
+<line x1="520.0" y1="628" x2="520.0" y2="1118" stroke="#d5dcd5" stroke-width="1"/>
+<text x="520.0" y="1142" font-size="14" fill="#606c66" font-weight="400" text-anchor="middle" >10</text>
+<line x1="740.0" y1="628" x2="740.0" y2="1118" stroke="#d5dcd5" stroke-width="1"/>
+<text x="740.0" y="1142" font-size="14" fill="#606c66" font-weight="400" text-anchor="middle" >20</text>
+<line x1="960.0" y1="628" x2="960.0" y2="1118" stroke="#d5dcd5" stroke-width="1"/>
+<text x="960.0" y="1142" font-size="14" fill="#606c66" font-weight="400" text-anchor="middle" >30</text>
+<text x="56" y="654" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >Macbeth</text>
+<text x="56" y="676" font-size="14" fill="#606c66" font-weight="400" text-anchor="start" >4 speeches</text>
+<path d="M300 640 h582.74 a4 4 0 0 1 4 4 v18 a4 4 0 0 1 -4 4 h-582.74 Z" fill="#386d52"/>
+<text x="898.74" y="660" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >26.67</text>
+<text x="56" y="738" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >Lady Macbeth</text>
+<text x="56" y="760" font-size="14" fill="#606c66" font-weight="400" text-anchor="start" >4 speeches</text>
+<path d="M300 724 h582.74 a4 4 0 0 1 4 4 v18 a4 4 0 0 1 -4 4 h-582.74 Z" fill="#386d52"/>
+<text x="898.74" y="744" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >26.67</text>
+<text x="56" y="822" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >Macduff</text>
+<text x="56" y="844" font-size="14" fill="#606c66" font-weight="400" text-anchor="start" >2 speeches</text>
+<path d="M300 808 h399.26 a4 4 0 0 1 4 4 v18 a4 4 0 0 1 -4 4 h-399.26 Z" fill="#386d52"/>
+<text x="715.26" y="828" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >18.33</text>
+<text x="56" y="906" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >Duncan</text>
+<text x="56" y="928" font-size="14" fill="#606c66" font-weight="400" text-anchor="start" >2 speeches</text>
+<path d="M300 892 h362.74 a4 4 0 0 1 4 4 v18 a4 4 0 0 1 -4 4 h-362.74 Z" fill="#386d52"/>
+<text x="678.74" y="912" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >16.67</text>
+<text x="56" y="990" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >Banquo</text>
+<text x="56" y="1012" font-size="14" fill="#606c66" font-weight="400" text-anchor="start" >2 speeches</text>
+<path d="M300 976 h216.0 a4 4 0 0 1 4 4 v18 a4 4 0 0 1 -4 4 h-216.0 Z" fill="#386d52"/>
+<text x="532.0" y="996" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >10.00</text>
+<text x="56" y="1074" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >Macduff's Son</text>
+<text x="56" y="1096" font-size="14" fill="#606c66" font-weight="400" text-anchor="start" >2 speeches</text>
+<path d="M300 1060 h32.739999999999995 a4 4 0 0 1 4 4 v18 a4 4 0 0 1 -4 4 h-32.739999999999995 Z" fill="#386d52"/>
+<text x="348.74" y="1080" font-size="20" fill="#173d36" font-weight="700" text-anchor="start" >1.67</text>
+<line x1="300" y1="628" x2="300" y2="1118" stroke="#173d36" stroke-width="2"/>
+<text x="300" y="1166" font-size="14" fill="#606c66" font-weight="400" text-anchor="start" >Share of the pool of 100</text>
+<line x1="56" y1="1276" x2="1066" y2="1276" stroke="#173d36" stroke-width="2"/>
+<text x="56" y="1306" font-size="17" fill="#173d36" font-weight="400" text-anchor="start" >A demonstration, not a payment. The licence labels are sample values.</text>
+<text x="56" y="1332" font-size="17" fill="#606c66" font-weight="400" text-anchor="start" >The text of Macbeth is in the public domain. Result from hello.sovsrc.si on 25 November 2026.</text>
+<text x="1066" y="1366" font-size="20" fill="#386d52" font-weight="700" text-anchor="end" >sovsrc.si</text>
+<text x="56" y="1366" font-size="17" fill="#606c66" font-weight="400" text-anchor="start" >Code: github.com/niccolox/sovsrc.si.core</text>
+</svg>
