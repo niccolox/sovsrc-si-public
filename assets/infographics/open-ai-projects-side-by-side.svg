@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1122 1402" width="1122" height="1402" role="img" aria-labelledby="ig-title ig-desc" font-family="Arial, Helvetica, sans-serif">
+<title id="ig-title">Four open AI projects, side by side</title>
+<desc id="ig-desc">A comparison of Nemotron 3 Ultra, OpenWALDO, Sovereign Source SI and the CommonLLM proposal. Nemotron 3 Ultra has a trained model and an open licence, source records in part, and no method to pay contributors. OpenWALDO has an open licence and source records, but no model and no payment method. Sovereign Source SI has source records and a payment calculation, but no model and no selected licence. CommonLLM is a proposal: each item is planned. Cost to start: 2.15 dollars for each million output tokens for Nemotron 3 Ultra at one host; no cost for the OpenWALDO tool; low for Sovereign Source SI; an estimate of 0.2 to 0.4 million dollars of compute for one CommonLLM training run.</desc>
+<rect width="1122" height="1402" fill="#fbfaf6"/>
+<text x="56" y="78" font-size="40" fill="#173d36" font-weight="700" text-anchor="start" >Four open AI projects, side by side</text>
+<text x="56" y="116" font-size="22" fill="#606c66" font-weight="400" text-anchor="start" >One released model, one tool set, one rewards service and one proposal</text>
+<rect x="312" y="156" width="178" height="150" rx="10" fill="#edf3ef" stroke="#386d52" stroke-width="2"/>
+<text x="401" y="188" font-size="15" fill="#386d52" font-weight="700" text-anchor="middle" letter-spacing="2">CAPABILITY</text>
+<text x="401" y="226" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle" >Nemotron</text>
+<text x="401" y="256" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle" >3 Ultra</text>
+<text x="401" y="288" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >NVIDIA</text>
+<rect x="502" y="156" width="178" height="150" rx="10" fill="#edf3ef" stroke="#386d52" stroke-width="2"/>
+<text x="591" y="188" font-size="15" fill="#386d52" font-weight="700" text-anchor="middle" letter-spacing="2">RECORDS</text>
+<text x="591" y="226" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle" >OpenWALDO</text>
+<text x="591" y="288" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >openwaldo.org</text>
+<rect x="692" y="156" width="178" height="150" rx="10" fill="#edf3ef" stroke="#386d52" stroke-width="2"/>
+<text x="781" y="188" font-size="15" fill="#386d52" font-weight="700" text-anchor="middle" letter-spacing="2">REWARDS</text>
+<text x="781" y="226" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle" >Sovereign</text>
+<text x="781" y="256" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle" >Source SI</text>
+<text x="781" y="288" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >sovsrc.si</text>
+<rect x="882" y="156" width="178" height="150" rx="10" fill="#edf3ef" stroke="#386d52" stroke-width="2" stroke-dasharray="8 7"/>
+<text x="971" y="188" font-size="15" fill="#386d52" font-weight="700" text-anchor="middle" letter-spacing="2">DATA</text>
+<text x="971" y="226" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle" >CommonLLM</text>
+<text x="971" y="256" font-size="20" fill="#173d36" font-weight="400" text-anchor="middle" >(proposed)</text>
+<text x="971" y="288" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >commonllm.org</text>
+<text x="56" y="226" font-size="19" fill="#606c66" font-weight="400" text-anchor="start" >What each</text>
+<text x="56" y="250" font-size="19" fill="#606c66" font-weight="400" text-anchor="start" >project supplies</text>
+<text x="56" y="366" font-size="25" fill="#173d36" font-weight="700" text-anchor="start" >What each project has today</text>
+<line x1="56" y1="388" x2="1066" y2="388" stroke="#d5dcd5" stroke-width="2"/>
+<text x="56" y="444" font-size="20" fill="#173d36" font-weight="400" text-anchor="start" >A trained model</text>
+<circle cx="401" cy="428" r="19" fill="#173d36" stroke="#173d36" stroke-width="3"/>
+<text x="401" y="470" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >550 billion parameters</text>
+<circle cx="591" cy="428" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3"/>
+<text x="591" y="470" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >not yet</text>
+<circle cx="781" cy="428" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3"/>
+<text x="781" y="470" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >no</text>
+<circle cx="971" cy="428" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="971" y="470" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >planned</text>
+<line x1="56" y1="486" x2="1066" y2="486" stroke="#d5dcd5" stroke-width="2"/>
+<text x="56" y="542" font-size="20" fill="#173d36" font-weight="400" text-anchor="start" >An open licence</text>
+<circle cx="401" cy="526" r="19" fill="#173d36" stroke="#173d36" stroke-width="3"/>
+<text x="401" y="568" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >OpenMDW-1.1</text>
+<circle cx="591" cy="526" r="19" fill="#173d36" stroke="#173d36" stroke-width="3"/>
+<text x="591" y="568" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >Apache-2.0</text>
+<circle cx="781" cy="526" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3"/>
+<text x="781" y="568" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >not selected</text>
+<circle cx="971" cy="526" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="971" y="568" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >planned</text>
+<line x1="56" y1="584" x2="1066" y2="584" stroke="#d5dcd5" stroke-width="2"/>
+<text x="56" y="628" font-size="20" fill="#173d36" font-weight="400" text-anchor="start" >A record for</text>
+<text x="56" y="653" font-size="20" fill="#173d36" font-weight="400" text-anchor="start" >each source</text>
+<circle cx="401" cy="624" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3"/>
+<path d="M401 605 A19 19 0 0 0 401 643 Z" fill="#173d36"/>
+<text x="401" y="666" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >dataset names only</text>
+<circle cx="591" cy="624" r="19" fill="#173d36" stroke="#173d36" stroke-width="3"/>
+<text x="591" y="666" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >bills of materials</text>
+<circle cx="781" cy="624" r="19" fill="#173d36" stroke="#173d36" stroke-width="3"/>
+<text x="781" y="666" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >each content unit</text>
+<circle cx="971" cy="624" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="971" y="666" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >planned manifest</text>
+<line x1="56" y1="682" x2="1066" y2="682" stroke="#d5dcd5" stroke-width="2"/>
+<text x="56" y="726" font-size="20" fill="#173d36" font-weight="400" text-anchor="start" >A method to pay</text>
+<text x="56" y="751" font-size="20" fill="#173d36" font-weight="400" text-anchor="start" >contributors</text>
+<circle cx="401" cy="722" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3"/>
+<text x="401" y="764" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >none</text>
+<circle cx="591" cy="722" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3"/>
+<text x="591" y="764" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >none</text>
+<circle cx="781" cy="722" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3"/>
+<path d="M781 703 A19 19 0 0 0 781 741 Z" fill="#173d36"/>
+<text x="781" y="764" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >calculation only</text>
+<circle cx="971" cy="722" r="19" fill="#fbfaf6" stroke="#173d36" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="971" y="764" font-size="15" fill="#606c66" font-weight="400" text-anchor="middle" >by agreement</text>
+<line x1="56" y1="780" x2="1066" y2="780" stroke="#d5dcd5" stroke-width="2"/>
+<circle cx="336" cy="818" r="11" fill="#173d36" stroke="#173d36" stroke-width="3"/>
+<text x="358" y="824" font-size="17" fill="#173d36" font-weight="400" text-anchor="start" >Yes</text>
+<circle cx="526" cy="818" r="11" fill="#fbfaf6" stroke="#173d36" stroke-width="3"/>
+<path d="M526 807 A11 11 0 0 0 526 829 Z" fill="#173d36"/>
+<text x="548" y="824" font-size="17" fill="#173d36" font-weight="400" text-anchor="start" >In part</text>
+<circle cx="716" cy="818" r="11" fill="#fbfaf6" stroke="#173d36" stroke-width="3"/>
+<text x="738" y="824" font-size="17" fill="#173d36" font-weight="400" text-anchor="start" >No</text>
+<circle cx="906" cy="818" r="11" fill="#fbfaf6" stroke="#173d36" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="928" y="824" font-size="17" fill="#173d36" font-weight="400" text-anchor="start" >Planned</text>
+<text x="56" y="824" font-size="17" fill="#606c66" font-weight="400" text-anchor="start" >Marks</text>
+<text x="56" y="902" font-size="25" fill="#173d36" font-weight="700" text-anchor="start" >Cost to start</text>
+<rect x="312" y="924" width="178" height="136" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="401" y="976" font-size="34" fill="#173d36" font-weight="700" text-anchor="middle" >$2.15</text>
+<text x="401" y="1010" font-size="14.5" fill="#606c66" font-weight="400" text-anchor="middle" >for each million output</text>
+<text x="401" y="1030" font-size="14.5" fill="#606c66" font-weight="400" text-anchor="middle" >tokens at one host</text>
+<rect x="502" y="924" width="178" height="136" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="591" y="976" font-size="34" fill="#173d36" font-weight="700" text-anchor="middle" >$0</text>
+<text x="591" y="1010" font-size="14.5" fill="#606c66" font-weight="400" text-anchor="middle" >for the tool; the user</text>
+<text x="591" y="1030" font-size="14.5" fill="#606c66" font-weight="400" text-anchor="middle" >pays for compute</text>
+<rect x="692" y="924" width="178" height="136" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="781" y="976" font-size="34" fill="#173d36" font-weight="700" text-anchor="middle" >Low</text>
+<text x="781" y="1010" font-size="14.5" fill="#606c66" font-weight="400" text-anchor="middle" >one small</text>
+<text x="781" y="1030" font-size="14.5" fill="#606c66" font-weight="400" text-anchor="middle" >container</text>
+<rect x="882" y="924" width="178" height="136" rx="10" fill="#fff3dd" stroke="#b98545" stroke-width="2"/>
+<text x="971" y="976" font-size="26" fill="#173d36" font-weight="700" text-anchor="middle" >$0.2M–$0.4M</text>
+<text x="971" y="1010" font-size="14.5" fill="#606c66" font-weight="400" text-anchor="middle" >compute for one training</text>
+<text x="971" y="1030" font-size="14.5" fill="#606c66" font-weight="400" text-anchor="middle" >run (estimate)</text>
+<text x="56" y="976" font-size="19" fill="#606c66" font-weight="400" text-anchor="start" >Before the</text>
+<text x="56" y="1000" font-size="19" fill="#606c66" font-weight="400" text-anchor="start" >first result</text>
+<text x="56" y="1128" font-size="25" fill="#173d36" font-weight="700" text-anchor="start" >Business benefit</text>
+<line x1="56" y1="1148" x2="1066" y2="1148" stroke="#d5dcd5" stroke-width="2"/>
+<text x="401" y="1186" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >High capability now,</text>
+<text x="401" y="1210" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >with commercial use</text>
+<text x="401" y="1234" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >permitted</text>
+<text x="591" y="1186" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >Proof of what is</text>
+<text x="591" y="1210" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >in a model</text>
+<text x="781" y="1186" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >A reason for content</text>
+<text x="781" y="1210" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >owners to give</text>
+<text x="781" y="1234" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >permission</text>
+<text x="971" y="1186" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >A base with clean</text>
+<text x="971" y="1210" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >lineage that all</text>
+<text x="971" y="1234" font-size="17" fill="#173d36" font-weight="400" text-anchor="middle" >people can use</text>
+<text x="56" y="1186" font-size="19" fill="#606c66" font-weight="400" text-anchor="start" >Why a business</text>
+<text x="56" y="1210" font-size="19" fill="#606c66" font-weight="400" text-anchor="start" >selects it</text>
+<line x1="56" y1="1294" x2="1066" y2="1294" stroke="#173d36" stroke-width="2"/>
+<text x="56" y="1324" font-size="17" fill="#173d36" font-weight="400" text-anchor="start" >CommonLLM is a proposal. No CommonLLM model exists today.</text>
+<text x="56" y="1350" font-size="17" fill="#606c66" font-weight="400" text-anchor="start" >Prices checked on 25 November 2026. The training cost is an estimate. Sources are in the article.</text>
+<text x="1066" y="1324" font-size="20" fill="#386d52" font-weight="700" text-anchor="end" >sovsrc.si</text>
+</svg>

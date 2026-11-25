@@ -5,6 +5,20 @@ description: Explore illustrated articles on AI, human knowledge, content reward
 is_home: true
 permalink: /
 stories:
+  - title: "Nemotron 3 Ultra, OpenWALDO, Sovereign Source SI and CommonLLM Side by Side"
+    url: /docs/NEMOTRON_OPENWALDO_SOVEREIGN_SOURCE_COMMONLLM_COMPARISON_ARTICLE.html
+    image: open-ai-projects-side-by-side
+    width: 1122
+    height: 1402
+    topic: sovereignty
+    summary: One table that compares a released model, a tool set, a rewards service and a proposal, with costs, licences and lineage.
+  - title: "CommonLLM: Common Crawl as an LLM for Open Source AI and SI"
+    url: /docs/COMMONLLM_COMMON_CRAWL_OPEN_SOURCE_LLM_ARTICLE.html
+    image: commonllm-common-crawl-pipeline
+    width: 1120
+    height: 1400
+    topic: sovereignty
+    summary: A proposal to process Common Crawl into a documented corpus and an open source model that all people can use.
   - title: What Ed Zitron’s AI Criticism Means for Content Rewards
     url: /docs/ED_ZITRON_CONTENT_REWARDS_ARTICLE.html
     image: ed-zitron-content-rewards-money-go-round
@@ -65,7 +79,7 @@ stories:
       <button type="button" data-topic="sovereignty" aria-pressed="false">Sovereign AI</button>
     </div>
   </div>
-  <p class="home-results" id="home-results" role="status" aria-live="polite" aria-atomic="true">Six illustrated articles from the public library.</p>
+  <p class="home-results" id="home-results" role="status" aria-live="polite" aria-atomic="true">Eight illustrated articles from the public library.</p>
   <ul class="story-gallery" aria-label="Illustrated articles">
     {% for story in page.stories %}
     <li class="story-card" data-topic="{{ story.topic }}">

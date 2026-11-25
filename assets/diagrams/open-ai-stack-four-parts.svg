@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 1400" width="1120" height="1400" role="img" aria-labelledby="stack-title stack-desc" font-family="Arial, Helvetica, sans-serif">
+  <title id="stack-title">Four parts of one open AI stack</title>
+  <desc id="stack-desc">Four projects, each with a different function. CommonLLM, a proposal, supplies data: a filtered Common Crawl corpus with a source manifest. OpenWALDO supplies records and training: bills of materials for the corpus, the training run and the model. Sovereign Source SI supplies permission and rewards: licence rules and contributor payments. Nemotron 3 Ultra supplies capability as an optional teacher model, which adds a lineage dependency. A project can use one part or all parts.</desc>
+  <rect width="1120" height="1400" fill="#fbfaf6"/>
+
+  <text x="560" y="80" text-anchor="middle" font-size="40" font-weight="700" fill="#173d36">Four parts of one open AI stack</text>
+  <text x="560" y="124" text-anchor="middle" font-size="24" fill="#606c66">What each project supplies</text>
+
+  <g text-anchor="middle">
+    <rect x="160" y="180" width="800" height="210" rx="10" fill="#edf3ef" stroke="#386d52" stroke-width="2"/>
+    <text x="560" y="232" font-size="22" letter-spacing="2" fill="#386d52">DATA</text>
+    <text x="560" y="286" font-size="34" font-weight="700" fill="#173d36">CommonLLM (proposed)</text>
+    <text x="560" y="334" font-size="22" fill="#173d36">Filtered Common Crawl corpus with a source manifest</text>
+
+    <rect x="160" y="430" width="800" height="210" rx="10" fill="#edf3ef" stroke="#386d52" stroke-width="2"/>
+    <text x="560" y="482" font-size="22" letter-spacing="2" fill="#386d52">RECORDS AND TRAINING</text>
+    <text x="560" y="536" font-size="34" font-weight="700" fill="#173d36">OpenWALDO</text>
+    <text x="560" y="584" font-size="22" fill="#173d36">Bills of materials for corpus, training run and model</text>
+
+    <rect x="160" y="680" width="800" height="210" rx="10" fill="#173d36" stroke="#173d36" stroke-width="2"/>
+    <text x="560" y="732" font-size="22" letter-spacing="2" fill="#cfe0d6">PERMISSION AND REWARDS</text>
+    <text x="560" y="786" font-size="34" font-weight="700" fill="#ffffff">Sovereign Source SI</text>
+    <text x="560" y="834" font-size="22" fill="#ffffff">Licence rules and contributor payments</text>
+
+    <rect x="160" y="930" width="800" height="210" rx="10" fill="#fff3dd" stroke="#b98545" stroke-width="2"/>
+    <text x="560" y="982" font-size="22" letter-spacing="2" fill="#8a5a1f">CAPABILITY (OPTIONAL)</text>
+    <text x="560" y="1036" font-size="34" font-weight="700" fill="#633b13">Nemotron 3 Ultra</text>
+    <text x="560" y="1084" font-size="22" fill="#633b13">Teacher model; adds a lineage dependency</text>
+
+    <rect x="240" y="1200" width="640" height="96" rx="10" fill="#fbfaf6" stroke="#aeb9af" stroke-width="2" stroke-dasharray="8 7"/>
+    <text x="560" y="1258" font-size="24" fill="#606c66">A project can use one part or all parts</text>
+  </g>
+</svg>

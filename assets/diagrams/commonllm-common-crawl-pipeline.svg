@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 1400" width="1120" height="1400" role="img" aria-labelledby="commonllm-title commonllm-desc" font-family="Arial, Helvetica, sans-serif">
+  <title id="commonllm-title">CommonLLM: from Common Crawl to an open source model</title>
+  <desc id="commonllm-desc">Six steps in sequence. Start with one Common Crawl archive. Apply a permission filter that reads robots.txt records, opt-out records and licence links. Clean the text. Write a source manifest with the address, crawl, capture date and licence of each document. Train the tokenizer and the model with recorded code and settings. Publish an open package of weights, code, tokenizer, manifest and model card. Credit and rewards for sources follow where agreed.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M1 1 L11 6 L1 11 Z" fill="#606c66"/>
+    </marker>
+  </defs>
+  <rect width="1120" height="1400" fill="#fbfaf6"/>
+
+  <text x="560" y="76" text-anchor="middle" font-size="40" font-weight="700" fill="#173d36">CommonLLM</text>
+  <text x="560" y="120" text-anchor="middle" font-size="24" fill="#606c66">From Common Crawl to an open source model</text>
+
+  <g stroke="#606c66" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <path d="M560 290 V336"/>
+    <path d="M560 470 V516"/>
+    <path d="M560 650 V696"/>
+    <path d="M560 830 V876"/>
+    <path d="M560 1010 V1056"/>
+  </g>
+  <path d="M560 1190 V1236" stroke="#606c66" stroke-width="3" stroke-dasharray="8 7" fill="none" marker-end="url(#arrow)"/>
+
+  <g text-anchor="middle">
+    <rect x="180" y="160" width="760" height="130" rx="10" fill="#173d36" stroke="#173d36" stroke-width="2"/>
+    <text x="560" y="214" font-size="30" font-weight="700" fill="#ffffff">1. Common Crawl archive</text>
+    <text x="560" y="254" font-size="22" fill="#ffffff">2.20 billion pages in the November 2026 crawl</text>
+
+    <rect x="180" y="340" width="760" height="130" rx="10" fill="#fff3dd" stroke="#b98545" stroke-width="2"/>
+    <text x="560" y="394" font-size="30" font-weight="700" fill="#633b13">2. Permission filter</text>
+    <text x="560" y="434" font-size="22" fill="#633b13">robots.txt records · opt-out records · licence links</text>
+
+    <rect x="180" y="520" width="760" height="130" rx="10" fill="#edf3ef" stroke="#386d52" stroke-width="2"/>
+    <text x="560" y="574" font-size="30" font-weight="700" fill="#173d36">3. Clean text</text>
+    <text x="560" y="614" font-size="22" fill="#173d36">Extract text · remove duplicates · remove personal data</text>
+
+    <rect x="180" y="700" width="760" height="130" rx="10" fill="#edf3ef" stroke="#386d52" stroke-width="2"/>
+    <text x="560" y="754" font-size="30" font-weight="700" fill="#173d36">4. Source manifest</text>
+    <text x="560" y="794" font-size="22" fill="#173d36">Address, crawl, capture date and licence of each document</text>
+
+    <rect x="180" y="880" width="760" height="130" rx="10" fill="#edf3ef" stroke="#386d52" stroke-width="2"/>
+    <text x="560" y="934" font-size="30" font-weight="700" fill="#173d36">5. Train</text>
+    <text x="560" y="974" font-size="22" fill="#173d36">Tokenizer and model, with recorded code and settings</text>
+
+    <rect x="180" y="1060" width="760" height="130" rx="10" fill="#173d36" stroke="#173d36" stroke-width="2"/>
+    <text x="560" y="1114" font-size="30" font-weight="700" fill="#ffffff">6. Open package</text>
+    <text x="560" y="1154" font-size="22" fill="#ffffff">Weights · code · tokenizer · manifest · model card</text>
+
+    <rect x="240" y="1240" width="640" height="96" rx="10" fill="#fbfaf6" stroke="#aeb9af" stroke-width="2" stroke-dasharray="8 7"/>
+    <text x="560" y="1298" font-size="24" fill="#606c66">Credit and rewards for sources, where agreed</text>
+  </g>
+</svg>
