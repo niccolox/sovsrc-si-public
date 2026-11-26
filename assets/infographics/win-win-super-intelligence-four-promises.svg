@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1122 1402" width="1122" height="1402" role="img" aria-labelledby="t d" font-family="Arial, Helvetica, sans-serif">
+<title id="t">Four promises of win-win super intelligence</title>
+<desc id="d">Four promises in a circle: ask for permission, show the sources, share the money, and keep the base open. A cycle connects them: people supply knowledge, AI becomes more useful, customers pay, and contributors receive a share, which pays for new knowledge.</desc>
+<defs><marker id="a" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto"><path d="M1 1 L11 6 L1 11 Z" fill="#606c66"/></marker></defs>
+<rect width="1122" height="1402" fill="#fbfaf6"/>
+<text x="56" y="80" font-size="42" fill="#173d36" font-weight="700" text-anchor="start">Win-win super intelligence</text>
+<text x="56" y="120" font-size="23" fill="#606c66" font-weight="400" text-anchor="start">Four promises that let people gain when AI gains</text>
+<circle cx="561" cy="640" r="300" fill="none" stroke="#606c66" stroke-width="3" stroke-dasharray="10 8"/>
+<path d="M673.4 361.8 A300 300 0 0 1 839.2 527.6" fill="none" stroke="#606c66" stroke-width="4" marker-end="url(#a)"/>
+<path d="M839.2 752.4 A300 300 0 0 1 673.4 918.2" fill="none" stroke="#606c66" stroke-width="4" marker-end="url(#a)"/>
+<path d="M448.6 918.2 A300 300 0 0 1 282.8 752.4" fill="none" stroke="#606c66" stroke-width="4" marker-end="url(#a)"/>
+<path d="M282.8 527.6 A300 300 0 0 1 448.6 361.8" fill="none" stroke="#606c66" stroke-width="4" marker-end="url(#a)"/>
+<circle cx="561" cy="640" r="150" fill="#173d36"/>
+<text x="561" y="622" font-size="30" fill="#ffffff" font-weight="700" text-anchor="middle">People gain</text>
+<text x="561" y="660" font-size="30" fill="#ffffff" font-weight="700" text-anchor="middle">when AI gains</text>
+<text x="561" y="698" font-size="18" fill="#cfe0d6" font-weight="400" text-anchor="middle">shared progress</text>
+<rect x="396.0" y="265.0" width="330" height="150" rx="12" fill="#edf3ef" stroke="#386d52" stroke-width="2.5"/>
+<circle cx="432.0" cy="304" r="20" fill="#386d52"/>
+<text x="432.0" y="311" font-size="20" fill="#ffffff" font-weight="700" text-anchor="middle">1</text>
+<text x="583.0" y="312" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle">Ask for permission</text>
+<text x="561.0" y="354" font-size="18" fill="#173d36" font-weight="400" text-anchor="middle">Use work only with the</text>
+<text x="561.0" y="380" font-size="18" fill="#173d36" font-weight="400" text-anchor="middle">owner's agreement or licence</text>
+<rect x="696.0" y="565.0" width="330" height="150" rx="12" fill="#edf3ef" stroke="#386d52" stroke-width="2.5"/>
+<circle cx="732.0" cy="604" r="20" fill="#386d52"/>
+<text x="732.0" y="611" font-size="20" fill="#ffffff" font-weight="700" text-anchor="middle">2</text>
+<text x="883.0" y="612" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle">Show the sources</text>
+<text x="861.0" y="654" font-size="18" fill="#173d36" font-weight="400" text-anchor="middle">Keep a public record of</text>
+<text x="861.0" y="680" font-size="18" fill="#173d36" font-weight="400" text-anchor="middle">what the AI learned from</text>
+<rect x="396.0" y="865.0" width="330" height="150" rx="12" fill="#edf3ef" stroke="#386d52" stroke-width="2.5"/>
+<circle cx="432.0" cy="904" r="20" fill="#386d52"/>
+<text x="432.0" y="911" font-size="20" fill="#ffffff" font-weight="700" text-anchor="middle">3</text>
+<text x="583.0" y="912" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle">Share the money</text>
+<text x="561.0" y="954" font-size="18" fill="#173d36" font-weight="400" text-anchor="middle">Pay contributors by a rule</text>
+<text x="561.0" y="980" font-size="18" fill="#173d36" font-weight="400" text-anchor="middle">that they can check</text>
+<rect x="96.0" y="565.0" width="330" height="150" rx="12" fill="#edf3ef" stroke="#386d52" stroke-width="2.5"/>
+<circle cx="132.0" cy="604" r="20" fill="#386d52"/>
+<text x="132.0" y="611" font-size="20" fill="#ffffff" font-weight="700" text-anchor="middle">4</text>
+<text x="283.0" y="612" font-size="23" fill="#173d36" font-weight="700" text-anchor="middle">Keep the base open</text>
+<text x="261.0" y="654" font-size="18" fill="#173d36" font-weight="400" text-anchor="middle">Open code, records and</text>
+<text x="261.0" y="680" font-size="18" fill="#173d36" font-weight="400" text-anchor="middle">models for all people</text>
+<text x="56" y="1060" font-size="25" fill="#173d36" font-weight="700" text-anchor="start">The cycle</text>
+<rect x="56" y="1084" width="236" height="96" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="174.0" y="1126" font-size="19" fill="#173d36" font-weight="700" text-anchor="middle">People supply</text>
+<text x="174.0" y="1152" font-size="19" fill="#173d36" font-weight="700" text-anchor="middle">knowledge</text>
+<path d="M295 1132 h14" stroke="#606c66" stroke-width="3" marker-end="url(#a)"/>
+<rect x="314" y="1084" width="236" height="96" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="432.0" y="1126" font-size="19" fill="#173d36" font-weight="700" text-anchor="middle">AI becomes</text>
+<text x="432.0" y="1152" font-size="19" fill="#173d36" font-weight="700" text-anchor="middle">more useful</text>
+<path d="M553 1132 h14" stroke="#606c66" stroke-width="3" marker-end="url(#a)"/>
+<rect x="572" y="1084" width="236" height="96" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="690.0" y="1139" font-size="19" fill="#173d36" font-weight="700" text-anchor="middle">Customers pay</text>
+<path d="M811 1132 h14" stroke="#606c66" stroke-width="3" marker-end="url(#a)"/>
+<rect x="830" y="1084" width="236" height="96" rx="10" fill="#ffffff" stroke="#d5dcd5" stroke-width="2"/>
+<text x="948.0" y="1126" font-size="19" fill="#173d36" font-weight="700" text-anchor="middle">Contributors get</text>
+<text x="948.0" y="1152" font-size="19" fill="#173d36" font-weight="700" text-anchor="middle">a share</text>
+<text x="56" y="1220" font-size="19" fill="#606c66" font-weight="400" text-anchor="start">The share pays for new knowledge, and the cycle starts again.</text>
+<line x1="56" y1="1312" x2="1066" y2="1312" stroke="#173d36" stroke-width="2"/>
+<text x="56" y="1344" font-size="17" fill="#606c66" font-weight="400" text-anchor="start">A proposal from a research initiative. No large AI model keeps all four promises today.</text>
+<text x="1066" y="1378" font-size="20" fill="#386d52" font-weight="700" text-anchor="end">sovsrc.si</text>
+</svg>

@@ -9,3 +9,5 @@ The commercial benefit extends to demand. Contributors who receive fair terms, c
 Rewards must still make business sense. Paying for volume alone invites spam and duplication. Companies should reward accepted contributions, useful updates and agreed use, then measure the full cost against product improvements. Better data must deliver customer value, and payments must fit sustainable margins without depending indefinitely on investor subsidies.
 
 Content rewards can therefore serve as an investment in both supply and demand. They help sustain the people producing knowledge and strengthen the businesses turning it into useful services. An AI company that shares value can earn continued participation, better inputs and stronger customer relationships: practical foundations for durable growth.
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

@@ -148,3 +148,5 @@ If a placement is wrong, tell us. Open a pull request in the [public repository 
 *This is our assessment of public facts on 25 November 2026. It is not a legal finding and not a statement about the conduct of a company. Sovereign Source is not affiliated with a company in this matrix. Sovereign Source remains a research initiative.*
 
 *Related reading: [Nemotron 3 Ultra, OpenWALDO, Sovereign Source SI and CommonLLM Side by Side](NEMOTRON_OPENWALDO_SOVEREIGN_SOURCE_COMMONLLM_COMPARISON_ARTICLE.md), [CommonLLM proposal](COMMONLLM_COMMON_CRAWL_OPEN_SOURCE_LLM_ARTICLE.md), and [Sovereign Source principles](PUBLIC_OVERVIEW.md).*
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

@@ -62,3 +62,4 @@ The test of this vision would be concrete. Are contributors receiving the amount
 Sovereign Source is a research initiative working toward those principles. Its public vision is that AI should respect permission, recognize the people behind useful knowledge and create opportunities for agreed rewards. Superintelligence should make human contribution more valuable and give people a meaningful part in the future they help create.
 
 *Related reading: [Sovereign Source principles](PUBLIC_OVERVIEW.md), [Content Rewards Can Open the AI Investment Economy](AI_CIRCULAR_ECONOMY_CONTENT_REWARDS_ARTICLE.md), and [The Business Case for AI Content Rewards](CONTENT_REWARDS_BUSINESS_CASE_250_WORDS.md).*
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

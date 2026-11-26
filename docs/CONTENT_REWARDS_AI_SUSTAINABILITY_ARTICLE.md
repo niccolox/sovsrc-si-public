@@ -51,3 +51,5 @@ Claims about better data economics need evidence. Comparisons should account for
 AI companies depend on people continuing to discover, explain, document and improve the world. Paying those people can help sustain the supply of knowledge on which future products depend. When the arrangement also reduces repeated acquisition work and creates relationships that bring in satisfied customers, contributor rewards become an investment in the company's own durability. Shared success can be good procurement, good product development and good business.
 
 *Related articles: [Content Rewards Can Open the AI Investment Economy](AI_CIRCULAR_ECONOMY_CONTENT_REWARDS_ARTICLE.md) and [Superintelligence Should Be a Win for Humans and Machines](SUPERINTELLIGENCE_SHARED_PROSPERITY_ARTICLE.md).*
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

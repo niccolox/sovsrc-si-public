@@ -45,3 +45,5 @@ Training records can support statements about which material was consumed. They 
 Nemotron's commercial permissions make competition possible under the model license. The broader case for an AI product still depends on useful performance, appropriate source permissions and honest accounts of where its capabilities came from. Contributor rewards are a proposed way to support that knowledge supply, with obligations defined by the relevant agreements rather than assumed from the model's availability.
 
 *This is general analysis of the cited releases and terms, not a legal opinion for a particular deployment. Sovereign Source remains a research initiative.*
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

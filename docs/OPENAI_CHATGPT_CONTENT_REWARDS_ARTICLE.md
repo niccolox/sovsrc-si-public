@@ -109,3 +109,5 @@ The proposed cycle is simple: people create and maintain valuable knowledge; Cha
 For Sovereign Source, that is the ambition of win-win superintelligence. Greater machine capability should expand people’s opportunities to discover, create and earn. Content rewards would give OpenAI a practical way to invest in the people who help make ChatGPT useful.
 
 <p class="article-note">Sovereign Source is a research initiative exploring permission, attribution and contributor rewards. This is an independent proposal, not an announcement of an OpenAI rewards program, endorsement or partnership. Sovereign Source does not currently operate a contributor-payment service. Read the <a href="PUBLIC_OVERVIEW.html">project principles</a>, the <a href="ANTHROPIC_CLAUDE_CONTENT_REWARDS_ARTICLE.html">companion proposal for Claude</a> and the <a href="CONTENT_REWARDS_AI_SUSTAINABILITY_ARTICLE.html">business case for contributor rewards</a> at <a href="https://sovsrc.si">sovsrc.si</a>.</p>
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

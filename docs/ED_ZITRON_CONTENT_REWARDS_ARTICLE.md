@@ -113,3 +113,5 @@ Sovereign Source’s response to Zitron’s criticism is to take the test seriou
 Pay the people who keep knowledge useful. Show the costs. Show the results. Give the contributor enough freedom to buy groceries instead of another lap around the server rack.
 
 <p class="article-note">Sovereign Source is a research initiative exploring permission, attribution and contributor rewards. This article is an independent response to Ed Zitron’s published commentary; it does not imply his endorsement, participation or agreement. The infographic’s characters and dialogue are original satire. The contributor model is a proposal, not an operating Sovereign Source payment service. Read the <a href="PUBLIC_OVERVIEW.html">project principles</a>, the <a href="OPENAI_CHATGPT_CONTENT_REWARDS_ARTICLE.html">ChatGPT content rewards proposal</a> and the <a href="ANTHROPIC_CLAUDE_CONTENT_REWARDS_ARTICLE.html">Claude content rewards proposal</a> at <a href="https://sovsrc.si">sovsrc.si</a>.</p>
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

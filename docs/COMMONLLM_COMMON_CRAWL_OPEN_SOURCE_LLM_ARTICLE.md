@@ -99,3 +99,5 @@ A larger model can also be a teacher for a CommonLLM model. That method adds a d
 *This is general analysis of the cited sources and terms, not a legal opinion for a particular use. Sovereign Source remains a research initiative.*
 
 *Related reading: [Sovereign Source principles](PUBLIC_OVERVIEW.md), [Building a Competing AI Model with Nemotron 3 Ultra](NEMOTRON_COMPETING_MODEL_ARTICLE.md), and [Superintelligence Should Be a Win for Humans and Machines](SUPERINTELLIGENCE_SHARED_PROSPERITY_ARTICLE.md).*
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

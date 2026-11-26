@@ -101,3 +101,5 @@ For Sovereign Source, the first integration should stay narrow: one private mode
 Run training separately from the application’s production services. Preserve the existing model as a baseline and rollback option, and qualify the candidate before routing operational requests to it. The application should continue to validate output and retain authority over business writes.
 
 The pilot’s deliverable is a model accompanied by its evidence: permitted source material, reproducible selection decisions, a recorded training process, and independent evaluation. That gives the community a specific result to inspect, challenge, and improve—and gives Sovereign Source a defensible basis for deciding whether the model belongs in production.
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

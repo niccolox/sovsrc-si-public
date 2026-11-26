@@ -17,3 +17,5 @@ Content rewards are one possible way to support continuing knowledge creation. W
 The project is at the research stage. It does not currently provide a production model or an operating contributor-payment service.
 
 Explore the [public articles](index.html), starting with [Superintelligence Should Be a Win for Humans and Machines](SUPERINTELLIGENCE_SHARED_PROSPERITY_ARTICLE.md) and [The Business Case for AI Content Rewards](CONTENT_REWARDS_BUSINESS_CASE_250_WORDS.md).
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

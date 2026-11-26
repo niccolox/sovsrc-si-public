@@ -60,3 +60,5 @@ The invitation to the Grok and xAI teams is straightforward: make contributor re
 Sovereign Source calls this a win-win ambition for superintelligence. More capable machines should expand people's ability to discover and create, while helping support the work that makes further progress possible. Grok has an opportunity to make that relationship visible in both its answers and its economics.
 
 *Sovereign Source is a research initiative exploring permission, attribution and contributor rewards. This proposal is independent of xAI and X and does not announce an agreement or an operating Sovereign Source payment service. Explore the [project principles](PUBLIC_OVERVIEW.md) at [sovsrc.si](https://sovsrc.si).*
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

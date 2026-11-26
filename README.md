@@ -13,6 +13,7 @@ Visit [sovsrc.si](https://sovsrc.si) or browse the [public library](docs/index.h
 ## Public reading
 
 - [Sovereign Source: principles and purpose](docs/PUBLIC_OVERVIEW.md)
+- [Win-Win Super Intelligence: A Plain Guide](docs/WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md)
 - [Why Content Rewards Could Strengthen Anthropic and Claude](docs/ANTHROPIC_CLAUDE_CONTENT_REWARDS_ARTICLE.md)
 - [Why Content Rewards Could Strengthen OpenAI and ChatGPT](docs/OPENAI_CHATGPT_CONTENT_REWARDS_ARTICLE.md)
 - [What Ed Zitron’s AI Criticism Means for Content Rewards](docs/ED_ZITRON_CONTENT_REWARDS_ARTICLE.md)

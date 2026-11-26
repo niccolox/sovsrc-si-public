@@ -109,3 +109,5 @@ The opportunity is a reinforcing relationship. Contributors produce and maintain
 For Sovereign Source, this is the ambition of win-win superintelligence: greater machine capability should expand people's opportunities to discover, create and earn. Anthropic could make that ambition concrete by treating contributor rewards as an investment in Claude's future.
 
 <p class="article-note">Sovereign Source is a research initiative exploring permission, attribution and contributor rewards. This proposal is independent of Anthropic and does not announce an Anthropic program, partnership or operating Sovereign Source payment service. Read the <a href="PUBLIC_OVERVIEW.html">project principles</a> and the <a href="CONTENT_REWARDS_AI_SUSTAINABILITY_ARTICLE.html">business case for contributor rewards</a> at <a href="https://sovsrc.si">sovsrc.si</a>.</p>
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

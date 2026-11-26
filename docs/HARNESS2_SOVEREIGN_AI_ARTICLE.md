@@ -59,3 +59,5 @@ A sensible evaluation would compare a fixed agent configuration with a refined o
 *Related reading: [Sovereign Source principles](PUBLIC_OVERVIEW.md), [building with Nemotron 3 Ultra](NEMOTRON_COMPETING_MODEL_ARTICLE.md), and [development-tool terms](CLAUDE_OPENAI_SOFTWARE_DEVELOPMENT_TERMS_ARTICLE.md).*
 
 *Licence discussion is general information; the applicable licences and service agreements govern actual use.*
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

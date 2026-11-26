@@ -49,3 +49,4 @@ Sovereign Source is a research initiative exploring permission, attribution and 
 AI's investment economy can grow to include the production of knowledge as deliberately as it includes the production of compute. A technician who maintains a useful manual, a scientist who curates a dataset and a small company that contributes a proven process should have a practical route to share in the value of an AI service built with their participation. Paying them can help sustain both their work and the next generation of useful intelligence.
 
 *Related articles: [Why Paying AI Contributors Can Lower Costs and Grow Demand](CONTENT_REWARDS_AI_SUSTAINABILITY_ARTICLE.md) and [Superintelligence Should Be a Win for Humans and Machines](SUPERINTELLIGENCE_SHARED_PROSPERITY_ARTICLE.md).*
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

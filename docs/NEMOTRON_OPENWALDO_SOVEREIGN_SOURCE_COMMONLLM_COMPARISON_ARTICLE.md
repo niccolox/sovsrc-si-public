@@ -80,3 +80,5 @@ Prices change. Check each source before a decision.
 *This is general analysis of the cited releases and terms, not a legal opinion or a purchase recommendation. Sovereign Source is not affiliated with NVIDIA, OpenWALDO, CIQ or the Common Crawl Foundation. Sovereign Source remains a research initiative.*
 
 *Related reading: [CommonLLM proposal](COMMONLLM_COMMON_CRAWL_OPEN_SOURCE_LLM_ARTICLE.md), [Building a Competing AI Model with Nemotron 3 Ultra](NEMOTRON_COMPETING_MODEL_ARTICLE.md), and [Sovereign Source principles](PUBLIC_OVERVIEW.md).*
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*

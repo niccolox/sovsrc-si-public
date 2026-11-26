@@ -53,3 +53,5 @@ For competing-model development, the options include appropriately licensed tool
 Sovereign Source's public principles emphasize permission, attribution and agreed contributor rewards. Applying those principles to development tools means respecting both the permissions received and their limits. [Project principles](PUBLIC_OVERVIEW.md).
 
 *This is general analysis of published terms checked on 16 October 2026, not a legal opinion or a determination of enforceability. The applicable account, regional, service-specific or negotiated agreement may differ. Before commercial reliance, obtain advice on the actual arrangement and written provider clarification where needed.*
+
+*New to these ideas? Start with [Win-Win Super Intelligence: A Plain Guide](WIN_WIN_SUPER_INTELLIGENCE_PLAIN_GUIDE_ARTICLE.md). It explains the project in plain words and links to each article.*
