@@ -5,6 +5,13 @@ description: Explore illustrated articles on AI, human knowledge, content reward
 is_home: true
 permalink: /
 stories:
+  - title: "AI Models: From Extractive to Shared"
+    url: /docs/AI_MODELS_EXTRACTIVE_TO_SHARED_ARTICLE.html
+    image: ai-model-matrix-extractive-to-shared
+    width: 1122
+    height: 1402
+    topic: sovereignty
+    summary: A matrix of 17 released models and two proposals, by the licence of their weights and by how they treat their sources.
   - title: "Macbeth and Content Rewards: The Source Code"
     url: /docs/MACBETH_CONTENT_REWARDS_SOURCE_CODE_ARTICLE.html
     image: macbeth-content-rewards-leaderboard
@@ -86,7 +93,7 @@ stories:
       <button type="button" data-topic="sovereignty" aria-pressed="false">Sovereign AI</button>
     </div>
   </div>
-  <p class="home-results" id="home-results" role="status" aria-live="polite" aria-atomic="true">Nine illustrated articles from the public library.</p>
+  <p class="home-results" id="home-results" role="status" aria-live="polite" aria-atomic="true">Ten illustrated articles from the public library.</p>
   <ul class="story-gallery" aria-label="Illustrated articles">
     {% for story in page.stories %}
     <li class="story-card" data-topic="{{ story.topic }}">
